@@ -1,6 +1,6 @@
 ### Hi there 👋. 
 
-I am Jos De Berdt.  
+I am **_Jos De Berdt_**.  
 A problem-solver that spend several years working in webdevelopment agencies making websites and e-commerce shops. A few years ago, I shifted to big web-applications. I love it. There is nothing greater than going from an idea to a good product and I feel lucky to be a part in that process.  
 
 I have had some roles in my career...  
